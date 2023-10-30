@@ -35,4 +35,5 @@ Lab3:
 переменных окружения:
 
 lab2abcNXXXXX_server [ опции ]
+
 lab2abcNXXXXX_client [ опции ]
